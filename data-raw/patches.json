@@ -1,0 +1,244 @@
+{
+  "patches": {
+    "Gravios": {
+      "c": "Flying Wyvern",
+      "e": [
+        "Fire"
+      ],
+      "a": [
+        "Fireblight",
+        "Sleep",
+        "Poison"
+      ],
+      "w": [
+        "Water"
+      ],
+      "s": [
+        1049.35,
+        3065.9
+      ],
+      "g": 1,
+      "ti": [
+        "Armor Wyvern"
+      ]
+    },
+    "Lagiacrus": {
+      "w": [
+        "Fire"
+      ]
+    },
+    "Safi'jiiva": {
+      "w": [
+        "Fire",
+        "Water",
+        "Thunder",
+        "Ice",
+        "Dragon"
+      ]
+    },
+    "Gore Magala": {
+      "c": [
+        "Unclassified",
+        "Demi Elder"
+      ]
+    },
+    "Chaotic Gore Magala": {
+      "c": [
+        "Unclassified"
+      ]
+    },
+    "Omega Planetes": {
+      "c": [
+        "Unclassified"
+      ]
+    },
+    "Apex Diablos": {
+      "unknown": [
+        "weaknesses"
+      ]
+    },
+    "Green Plesioth": {
+      "ti": [
+        "Green Water Wyvern",
+        "The Tide"
+      ],
+      "t": [
+        5,
+        5
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Green_Plesioth_(MH3U)"
+    },
+    "Rey Dau": {
+      "ti": [
+        "Shining Thunder Wyvern",
+        "Earth-Piercing Bolt"
+      ]
+    },
+    "Abyssal Lagiacrus": {
+      "t": [
+        6,
+        6
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Abyssal_Lagiacrus_(MH3U)"
+    },
+    "Dire Miralis": {
+      "t": [
+        6,
+        6
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Dire_Miralis_(MH3U)"
+    },
+    "Hallowed Jhen Mohran": {
+      "t": [
+        6,
+        6
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Hallowed_Jhen_Mohran_(MH3U)"
+    },
+    "Sand Barioth": {
+      "t": [
+        5,
+        5
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Sand_Barioth_(MH3U)"
+    },
+    "Gaismagorm": {
+      "t": [
+        10,
+        10
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Gaismagorm_(MHRS) ; https://monsterhunterrise.wiki.fextralife.com/Gaismagorm"
+    },
+    "Savage Deviljho": {
+      "t": [
+        6,
+        6
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Savage_Deviljho_(MH4U) ; https://monsterhunterwiki.org/wiki/Savage_Deviljho_(MHGU) ; https://monsterhunterwiki.org/wiki/Savage_Deviljho_(MH3U)"
+    },
+    "Raging Brachydios": {
+      "t": [
+        5,
+        5
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Raging_Brachydios_(MH4U) ; https://monsterhunterwiki.org/wiki/Raging_Brachydios_(MHGU)"
+    },
+    "Rusted Kushala Daora": {
+      "t": [
+        6,
+        6
+      ],
+      "threatSource": "https://monsterhunterwiki.org/wiki/Rusted_Kushala_Daora_(MH4U)"
+    },
+    "Balahara": {
+      "t": null,
+      "threatSource": "https://monsterhunter.fandom.com/wiki/Monster_Hunter_Wilds"
+    },
+    "Doshaguma": {
+      "t": null,
+      "threatSource": "https://monsterhunter.fandom.com/wiki/Monster_Hunter_Wilds"
+    },
+    "Nu Udra": {
+      "t": null,
+      "threatSource": "https://monsterhunter.fandom.com/wiki/Monster_Hunter_Wilds"
+    },
+    "Acidic Glavenus": {
+      "s": [
+        2234.75,
+        3174.36
+      ]
+    },
+    "Blackveil Vaal Hazak": {
+      "s": [
+        1843.95,
+        2598.3
+      ]
+    },
+    "Apex Arzuros": {
+      "s": [
+        501.34,
+        854.55
+      ]
+    },
+    "Apex Zinogre": {
+      "s": [
+        1217.4,
+        2144.49
+      ]
+    },
+    "Emerald Congalala": {
+      "s": [
+        491.4,
+        1670.76
+      ]
+    },
+    "Elderfrost Gammoth": {
+      "s": [
+        455.21,
+        2617.48
+      ]
+    },
+    "Coral Pukei-Pukei": {
+      "s": [
+        970.16,
+        1344.99
+      ]
+    },
+    "Frostfang Barioth": {
+      "s": [
+        1888.47,
+        2580.91
+      ]
+    },
+    "Guardian Arkveld": {
+      "s": [
+        1483.22,
+        1666.54
+      ]
+    },
+    "Nightcloak Malfestio": {
+      "s": [
+        305.83,
+        758.46
+      ]
+    },
+    "Seething Bazelgeuse": {
+      "s": [
+        1696.97,
+        2410.48
+      ]
+    },
+    "Scarred Yian Garuga": {
+      "s": [
+        887.3,
+        1744.5
+      ]
+    },
+    "Pyre Rakna-Kadaki": {
+      "s": [
+        771.23,
+        1071.16
+      ]
+    },
+    "Tidal Najarala": {
+      "s": [
+        3568.4,
+        5271.5
+      ]
+    },
+    "Soulseer Mizutsune": {
+      "s": [
+        565.54,
+        2792.77
+      ]
+    },
+    "Viper Tobi-Kadachi": {
+      "s": [
+        1157.46,
+        1573.63
+      ]
+    }
+  },
+  "firstAppearanceFallback": "When the wiki lead sentence names no game, the earliest main-series game in the monster's game list is used (affects collaboration and Wilds monsters whose lead sentence is phrased differently).",
+  "_threatNote": "Threat levels shown in the game come from data-raw/threat-mhdle.json (the original MHDLE's ratings), for all monsters it lists. The 't' values here are the in-game Hunter's Notes ratings, kept for reference; they are only used for monsters MHDLE doesn't list (currently Yian Garuga uses the wiki value)."
+}
