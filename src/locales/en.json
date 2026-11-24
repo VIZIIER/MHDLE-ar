@@ -2,7 +2,7 @@
   "app": {
     "title": "MH DLE",
     "tagline": "Find the monsters of the day",
-    "docTitle": "MH DLE · Monster Hunter guessing game",
+    "docTitle": "MH DLE · Monster Hunter Wordle, guess the monster of the day",
     "skip": "Skip to the game",
     "disclaimer": "Unofficial fan game. Monster Hunter and its monster names are trademarks of Capcom Co., Ltd. This site isn't affiliated with or endorsed by Capcom.",
     "dataCredit": "Monster data: Monster Hunter Wiki (Fandom), CC BY-SA 3.0. Monster icons, pictures and roars © Capcom."
